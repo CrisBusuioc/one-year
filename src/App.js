@@ -24,7 +24,7 @@ function App() {
               <ListGroup.Item>𝟸𝟽/𝟷𝟷/𝟶𝟽 - 𝚓𝚊𝚜𝚢 𝚋𝚒𝚛𝚝𝚑𝚍𝚊𝚢</ListGroup.Item>
               <ListGroup.Item>𝟶𝟷/𝟶𝟿/𝟶𝟼 - 𝚌𝚛𝚒𝚜 𝚋𝚒𝚛𝚝𝚑𝚍𝚊𝚢</ListGroup.Item>
               <ListGroup.Item>𝟸𝟺/𝟷𝟸/𝟸𝟸 - 𝚊𝚗𝚗𝚒𝚟𝚎𝚛𝚜𝚊𝚛𝚢</ListGroup.Item>
-              <ListGroup.Item>𝟸𝟽/𝟷𝟷/𝟶𝟽 - 𝚏𝚒𝚛𝚜𝚝 𝚔𝚒𝚜𝚜</ListGroup.Item>
+              <ListGroup.Item>𝟸𝟽/𝟷𝟷/22 - 𝚏𝚒𝚛𝚜𝚝 𝚔𝚒𝚜𝚜</ListGroup.Item>
               <ListGroup.Item>𝟷𝟷/𝟷𝟷/𝟸𝟸 - 𝚏𝚒𝚛𝚜𝚝 𝚖𝚎𝚝 </ListGroup.Item>
             </ListGroup>
           </div>
