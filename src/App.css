@@ -1,38 +1,70 @@
 .App {
   text-align: center;
+  
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.bodyContent {
+  display: flex;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+.body {
+  background-image: url(tile_background.png);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+  border: 20px;
+  border-radius: 10px;
   color: white;
+  }
+
+#quote {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0;
 }
 
-.App-link {
-  color: #61dafb;
+.picture {
+  max-width: 400px;
+  border-radius: 5px;
+  border: 3px;
+  border-style: solid;
+  margin: 100px; 
+  border-color:white;
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+  height: auto;
+  margin-top: 50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#demo {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.ListGroup {
+  width: 250px;
+  height: 200px;
+  font-size: 15px;
+}
+
+.hr-text {
+	height: 10px;
+	border: 0;
+  width: 1200px;
+  box-shadow: 0 10px 10px -10px white inset;
+}
+
+.accordion {
+  max-width: 300px;
+}
+
+.ListGroupContents {
+  margin-top: 250px;
 }
